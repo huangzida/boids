@@ -1,6 +1,6 @@
 {
   "name": "@bg-effects/boids",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "packageManager": "pnpm@10.25.0",
   "description": "Boids Background Effect - A high-performance boids simulation background effect built with OGL and Vue.",
@@ -72,6 +72,7 @@
     "ogl": "^1.0.11",
     "plop": "^4.0.1",
     "prettier": "^3.5.1",
+    "simple-git": "^3.32.3",
     "typescript": "^5.7.3",
     "typescript-eslint": "^8.24.1",
     "unocss": "^65.4.3",
