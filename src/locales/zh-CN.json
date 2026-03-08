@@ -1,0 +1,35 @@
+{
+  "tabs": {
+    "basic": "基础",
+    "behavior": "行为",
+    "appearance": "外观",
+    "interaction": "交互"
+  },
+  "labels": {
+    "mode": "运行模式",
+    "mode_organic": "自然生机",
+    "mode_swarm": "蜂群风暴",
+    "count": "飞鸟数量",
+    "bird_size": "飞鸟大小",
+    "speed": "运行速度",
+    "range": "活动范围",
+    "alignment": "对齐度",
+    "cohesion": "凝聚力",
+    "separation": "排斥力",
+    "perception": "感知半径",
+    "color_mode": "颜色模式",
+    "color_mode_single": "单颜色",
+    "color_mode_multi": "彩虹色",
+    "color": "基础颜色",
+    "bg_color": "背景颜色",
+    "shape": "形状",
+    "shape_triangle": "三角形",
+    "shape_arrow": "飞鸟形",
+    "shape_circle": "圆形",
+    "interactive": "点击交互",
+    "mouse_mode": "鼠标模式",
+    "mouse_mode_repel": "排斥",
+    "mouse_mode_attract": "中心吸引",
+    "mouse_force": "互动强度"
+  }
+}

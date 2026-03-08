@@ -1,0 +1,35 @@
+{
+  "tabs": {
+    "basic": "Basic",
+    "behavior": "Behavior",
+    "appearance": "Appearance",
+    "interaction": "Interaction"
+  },
+  "labels": {
+    "mode": "Mode",
+    "mode_organic": "Organic",
+    "mode_swarm": "Swarm",
+    "count": "Bird Count",
+    "bird_size": "Bird Size",
+    "speed": "Speed",
+    "range": "Range",
+    "alignment": "Alignment",
+    "cohesion": "Cohesion",
+    "separation": "Separation",
+    "perception": "Perception",
+    "color_mode": "Color Mode",
+    "color_mode_single": "Single Color",
+    "color_mode_multi": "Rainbow",
+    "color": "Base Color",
+    "bg_color": "Background",
+    "shape": "Shape",
+    "shape_triangle": "Triangle",
+    "shape_arrow": "Arrow",
+    "shape_circle": "Circle",
+    "interactive": "Interactive",
+    "mouse_mode": "Mouse Mode",
+    "mouse_mode_repel": "Repel",
+    "mouse_mode_attract": "Attract",
+    "mouse_force": "Mouse Force"
+  }
+}
